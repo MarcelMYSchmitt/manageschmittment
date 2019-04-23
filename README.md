@@ -10,5 +10,5 @@ For all other invalid routes you will be redirected to a `404` page.
 
 # Sources
 Website template used from: https://templateflip.com/
-Routing used for allow only the routes we want: https://github.com/taniarascia/taniarascia.com/blob/master/content/posts/2018-06-21-the-simplest-php-router.md
+Routing used for allow only the routes we want: https://github.com/taniarascia/taniarascia.com/blob/master/content/posts/2018-06-21-the-simplest-php-router.md  
 E-Mail form: https://www.quackit.com/html/codes/html_form_to_email.cfm
